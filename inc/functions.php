@@ -1,6 +1,6 @@
 <?php
 
-function helloW()
+function showMePiNumber()
 {
-    echo 'Hello world';
+    echo pi();
 }

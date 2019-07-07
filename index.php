@@ -2,4 +2,4 @@
 
 require_once 'inc/functions.php';
 
-helloW();
+showMePiNumber();
